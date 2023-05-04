@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "provider": {
+    "type": "file",
+    "pathes": {
+      "index": "./timetable.index.json",
+      "data": "./data"
+    }
+  }
+}
