@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Config qand data files
+public/timetable.config.json
+public/timetable.index.json
+public/data
